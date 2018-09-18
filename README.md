@@ -1,4 +1,4 @@
-# Egyszám játék
+# Egyszámjáték
 
 Az egyszámjáték Mérő László matematikus találmánya. A játék nagyon egyszerű. Mindenkinek, aki a játék egy fordulójában részt kíván venni, tippelnie kell egy számra 1 és 99 között. A játékot az nyeri, aki a legkisebb olyan számra tippelt, amelyre csak ő tippelt egyedül, ha nincs ilyen szám, akkor a fordulónak nincs nyertese. Ebben a feladatban egy többfordulós egyszámjátékkal kapcsolatban kell feladatokat
 megoldania.
